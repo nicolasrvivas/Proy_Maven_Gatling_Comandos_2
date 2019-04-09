@@ -1,0 +1,10 @@
+{
+  "simulation": "Falabella",
+  "simulationId": "falabella",
+  "start": 1554846566441,
+  "description": "",
+  "scenarios": ["Falabella"],
+  "assertions": [
+
+  ]
+}
